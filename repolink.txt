@@ -1,0 +1,3 @@
+The github repo link of the project is given below -
+
+https://github.com/rrajkukausik/Sentiment_Analysis_Webapp_using_AWS
